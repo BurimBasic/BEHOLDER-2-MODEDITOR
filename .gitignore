@@ -1,0 +1,13 @@
+dist/
+release/
+prototype/
+fresh-profile/
+*-profile*/
+pending-update/
+vendor/runtime/
+*.log
+asset-catalog.tsv
+*.previous-*
+*.bin
+.asset-tools/
+.DS_Store
